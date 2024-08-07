@@ -15,7 +15,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #f0f0f0;
+  background: linear-gradient(180deg, #33383D 0%, #1C1D20 100%); /* Use `background` em vez de `background-color` */
 }
 
 .right-side {
