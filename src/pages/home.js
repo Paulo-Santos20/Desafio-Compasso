@@ -13,7 +13,7 @@ const Home = () => {
         <form>
         <h3>Login</h3>
           <div className="form-group">
-            <label htmlFor="username">Username:</label>
+            <label className="teste"htmlFor="username">Username:</label>
             <input type="text" id="username" name="username" />
           </div>
           <div className="form-group">
